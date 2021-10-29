@@ -1,1 +1,3 @@
 # Full-Stack-Ecommoerce-Spring-Boot-and-Angular-12
+
+This app is still in progress...
